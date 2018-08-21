@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_8cd79dfa30ca65a0b0c1c43864241a0c'] = '[Warehouse] Blok: Odkazy';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_baa2ae9622a47c3217d725d1537e5187'] = 'Zobrazenie bloku s vlastnými odkazmi.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_d98d5daaf408b77b05a2eeb6ae88d6df'] = 'Naozaj si prajete modul odinštalovať a odstrániť všetky odkazy?';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_fe3f38c46c80813d94b6775299e59f13'] = 'Musíte vyplniť všetky polia';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_9394bb34611399534ffac4f0ece96b7f'] = 'Neplatný URL odkaz';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_3da9d5745155a430aac6d7de3b6de0c8'] = 'URL odkaz bol úspešne pridaný.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_898536ebd630aa3a9844e9cd9d1ebb9b'] = 'Počas vytvárania URL odkazu sa vyskytla chyba.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_b18032737875f7947443c98824103a1f'] = 'Pole \"Názov bloku\" nesmie byť prázdne.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_43b38b9a2fe65059bed320bd284047e3'] = 'Pole \"Názov bloku\" je neplatné.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_eb74914f2759760be5c0a48f699f8541'] = 'Počas aktualizácie názvu sa vyskytla chyba.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_5c0f7e2db8843204f422a369f2030b37'] = 'Názov bloku bol úspešne aktualizovaný.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_5d73d4c0bcb035a1405e066eb0cdf832'] = 'Počas odstraňovania odkazu sa vyskytla chyba.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_9bbcafcc85be214aaff76dffb8b72ce9'] = 'Odkaz bol úspešne odstránený.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_7e5748d8c44f33c9cde08ac2805e5621'] = 'Poradie zaraďovania bolo úspešne aktualizované.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_46cff2568b00bc09d66844849d0b1309'] = 'Počas úpravy poradia zaraďovania sa vyskytla chyba.';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_490aa6e856ccf208a054389e47ce0d06'] = 'ID';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_9dffbf69ffba8bc38bc4e01abf4b1675'] = 'Text';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_02a3a357710cc2a5dfdfb74ed012fb59'] = 'URL adresa';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_387a8014f530f080bf2f3be723f8c164'] = 'Zoznam odkazov';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_58e9b25bb2e2699986a3abe2c92fc82e'] = 'Pridať nový odkaz';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_e124f0a8a383171357b9614a45349fb5'] = 'Otvárať odkaz v novom okne';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'zapnutý';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_b9f5c797ebbf55adccdd8539a65a0241'] = 'vypnutý';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_c9cc8cce247e49bae79f15173ce97354'] = 'Uložiť';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_9d55fc80bbb875322aa67fd22fc98469'] = 'Príslušnosť k obchodu';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_861dc984a1e9aa1e7fef283b4886c2b6'] = 'Pridať nový blok';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_b78a3223503896721cca1303f776159b'] = 'Nadpis';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_f4f70727dc34561dfde1a3c529b6205c'] = 'Nastavenia';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_aed3f8ab8adeac5f8a45a3a675cff941'] = 'Spôsob zoradenia';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_d36e9f57ea37903f81d28f7a189b9649'] = 'najnovšie odkazy prvé';
+$_MODULE['<{blocklink_mod}warehouse>blocklink_mod_6ccdff04699ffe6956a6b1465907414a'] = 'najstaršie odkazy prvé';

@@ -1,0 +1,33 @@
+/* Cash On Delivery Plus payment module CSS ********************************************************* */
+/* PrestaShop 1.6.x */
+
+p.payment_module a.cashondeliveryplus {
+   /* background: url("../img/cashondeliveryplus-64.png") no-repeat scroll 15px 12px; */
+}
+p.payment_module a.cashondeliveryplus:after {
+    color: #777777;
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 25px;
+    height: 22px;
+    margin-top: 12px;
+    position: absolute;
+    right: 15px;
+    top: 10%;
+    width: 100px;
+}
+p.payment_module a:hover { background-color: #f6f6f6; }
+
+/* Validation page */
+#module-cashondeliveryplus-validation #center_column img {float:right; margin:0 5px 5px 0}
+
+/* Confirmation page */
+#order-confirmation #center_column img.logo {float:right; margin:0 5px 5px 0}
+
+/* Payments icons on Product detail page */
+.box-security { text-align: center; }
+.box-security img { margin-bottom: 10px; }
+
+/* Payments icons on Left / Right column */
+.payment_logo_block { display:block; text-align:center; }
+.payment_logo_block img { margin: 6px 0; }

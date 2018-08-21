@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-mobile_62f5d708d6ad1fa1ddd9429a65cccbea'] = 'Všetky kategórie';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-mobile_13348442cc6a27032d2b4aa28b75a5d3'] = 'Vyhľladávanie';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_modh_0c78a15cc99bed0cf491543781cd8475'] = 'Viac produktov »';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_8f104ce8471b1b49f56ab0df5bb5ab8d'] = '[Warehouse] Vyhľadávanie v hlavičke a vlastný obsah';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_4483c444141047181d37ba743d86db33'] = 'Zobrazenie bloku s poľom pre vyhľadávanie produktov v katalógu a vlastný HTML obsah.';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Nastavenia boli úspešne aktualizované';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_197b3f01c93ff64abfa3bc27e7ac34ac'] = 'Modul vyhľadávania';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_d793a2d37e86496b4721fe88c72b036a'] = 'Ukotvenie vyhľadávacieho poľa';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_fb181001fd0aa86ba00e83bbed95761e'] = 'displayTop';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_003b9acb44732134420fdb6d2cd7a5e5'] = 'Navigačná lišta';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_f6702402b0605059e4146c122a27c7bb'] = 'Skryť vyhľadávacie pole a zobraziť ikonu vyhľadávania';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_01a0571cfc7b83aee69010a391fe530e'] = 'Vyhľadávacie pole bude skryté a zobrazí sa až po kliknutí na ikonu vyhľadávania. Použite túto funkciu iba ak: máte pre Blok: Nákupný košík a Blok: Účet zákazníka zvolenú variantu č.2, alebo používate pre vyhľadaávnie ukotvenie v horizontálnej navigácii.';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Zapnuté';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_b9f5c797ebbf55adccdd8539a65a0241'] = 'Vypnuté';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_f721a0eb4f1b787fc534f58decd9a22b'] = 'Volič kategórií';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_5dbef83a3a976356c2569e16747f6453'] = 'Hĺbka kategórií';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_3d83a3317bf269986e37c7fb03fadc97'] = 'Vlastný HTML obsah';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_901e8ade40cc144ba8a4943dfdf06155'] = 'Informácie vlastného textu';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_c9cc8cce247e49bae79f15173ce97354'] = 'Uložiť';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_242e9577826290307cd3e45a259172cc'] = 'Úpravy budú použité pre';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_fb54f3c5992b96d001bb16e8e92d968d'] = 'obchod';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_540c8f06b80b4ec911505764eb455f4d'] = 'všetky obchody';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_13348442cc6a27032d2b4aa28b75a5d3'] = 'Vyhľadávanie';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch_mod_52d578d063d6101bbdae388ece037e60'] = 'Zadajte názov produktu';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-top_modm_62f5d708d6ad1fa1ddd9429a65cccbea'] = 'Všetko';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-top_modm_13348442cc6a27032d2b4aa28b75a5d3'] = 'Vyhľadávanie';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-top_mod_13348442cc6a27032d2b4aa28b75a5d3'] = 'Vyhľadávanie';
+$_MODULE['<{blocksearch_mod}warehouse>blocksearch-top_mod_62f5d708d6ad1fa1ddd9429a65cccbea'] = 'Všetko';

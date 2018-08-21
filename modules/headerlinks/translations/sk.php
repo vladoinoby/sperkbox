@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{headerlinks}warehouse>headerlinks_6635f57814ec05aba984c9ee4dd0d96b'] = '[Warehouse] Odkazy v hlavičke';
+$_MODULE['<{headerlinks}warehouse>headerlinks_baa2ae9622a47c3217d725d1537e5187'] = 'Pridáva blok s vlastnými odkazmi.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_d98d5daaf408b77b05a2eeb6ae88d6df'] = 'Naozaj si prajete odinštalovať tento modul ?';
+$_MODULE['<{headerlinks}warehouse>headerlinks_fe3f38c46c80813d94b6775299e59f13'] = 'Musíte vyplniť všetky polia';
+$_MODULE['<{headerlinks}warehouse>headerlinks_9394bb34611399534ffac4f0ece96b7f'] = 'Nesprávna URL adresa';
+$_MODULE['<{headerlinks}warehouse>headerlinks_3da9d5745155a430aac6d7de3b6de0c8'] = 'Odkaz bol úspešne pridaný.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_898536ebd630aa3a9844e9cd9d1ebb9b'] = 'Pri vytváraní odkazu sa vyskytla chyba.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_43b38b9a2fe65059bed320bd284047e3'] = 'Pole \"Nadpis\" nie je platné';
+$_MODULE['<{headerlinks}warehouse>headerlinks_eb74914f2759760be5c0a48f699f8541'] = 'Pri aktualizácii Nadpisu sa vyskytla chyba.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_5c0f7e2db8843204f422a369f2030b37'] = 'Nadpis bloku bol úspešne aktualizovaný.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_5d73d4c0bcb035a1405e066eb0cdf832'] = 'Pri odstraňovaní odkazu sa vyskytla chyba.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_9bbcafcc85be214aaff76dffb8b72ce9'] = 'Odkaz bol odstránený.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_7e5748d8c44f33c9cde08ac2805e5621'] = 'Spôsob zoraďovania bol aktualizovaný';
+$_MODULE['<{headerlinks}warehouse>headerlinks_46cff2568b00bc09d66844849d0b1309'] = 'Pri aktualizácii Spôsobu zoradenia sa vyskytla chyba.';
+$_MODULE['<{headerlinks}warehouse>headerlinks_490aa6e856ccf208a054389e47ce0d06'] = 'ID';
+$_MODULE['<{headerlinks}warehouse>headerlinks_9dffbf69ffba8bc38bc4e01abf4b1675'] = 'Text';
+$_MODULE['<{headerlinks}warehouse>headerlinks_02a3a357710cc2a5dfdfb74ed012fb59'] = 'URL';
+$_MODULE['<{headerlinks}warehouse>headerlinks_387a8014f530f080bf2f3be723f8c164'] = 'Zoznam odkazov';
+$_MODULE['<{headerlinks}warehouse>headerlinks_58e9b25bb2e2699986a3abe2c92fc82e'] = 'Pridať nový odkaz';
+$_MODULE['<{headerlinks}warehouse>headerlinks_e124f0a8a383171357b9614a45349fb5'] = 'Otvárať v novom okne';
+$_MODULE['<{headerlinks}warehouse>headerlinks_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Zapnuté';
+$_MODULE['<{headerlinks}warehouse>headerlinks_b9f5c797ebbf55adccdd8539a65a0241'] = 'Vypnuté';
+$_MODULE['<{headerlinks}warehouse>headerlinks_c9cc8cce247e49bae79f15173ce97354'] = 'Uložiť';
+$_MODULE['<{headerlinks}warehouse>headerlinks_9d55fc80bbb875322aa67fd22fc98469'] = 'Príslušnosť k obchodu';
+$_MODULE['<{headerlinks}warehouse>headerlinks_f8c4157e989b4fff762f3a916574fbb1'] = 'Názov bloku a odkazy';
+$_MODULE['<{headerlinks}warehouse>headerlinks_b78a3223503896721cca1303f776159b'] = 'Názov';
+$_MODULE['<{headerlinks}warehouse>headerlinks_1da98f3db7eaffad2760d8ee18a1500b'] = 'Odkaz na kontakt';
+$_MODULE['<{headerlinks}warehouse>headerlinks_06572ef037d81349813bf077e09c06a1'] = 'Odkaz na mapu obchodu';
+$_MODULE['<{headerlinks}warehouse>headerlinks_f4f70727dc34561dfde1a3c529b6205c'] = 'Nastavenia';
+$_MODULE['<{headerlinks}warehouse>headerlinks_aed3f8ab8adeac5f8a45a3a675cff941'] = 'Spôsob zoradenia';
+$_MODULE['<{headerlinks}warehouse>headerlinks_d36e9f57ea37903f81d28f7a189b9649'] = 'najnovšie odkazy prvé';
+$_MODULE['<{headerlinks}warehouse>headerlinks_6ccdff04699ffe6956a6b1465907414a'] = 'najstaršie odkazy prvé';
+$_MODULE['<{headerlinks}warehouse>headerlinks_bbaff12800505b22a853e8b7f4eb6a22'] = 'Kontakt';
+$_MODULE['<{headerlinks}warehouse>headerlinks_5813ce0ec7196c492c97596718f71969'] = 'Mapa obchodu';

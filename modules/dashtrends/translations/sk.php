@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{dashtrends}warehouse>dashtrends_ee653ade5f520037ef95e9dc2a42364c'] = 'Sumárny prehľad: Trendy a vývoj predaja';
+$_MODULE['<{dashtrends}warehouse>dashtrends_f2d0efa68eb71bfd5209abeb9f4b0943'] = 'Pridá blok s grafickou prezentáciou vývoja obchodu (obchodov) na základe kľúčových údajov.';
+$_MODULE['<{dashtrends}warehouse>dashtrends_2d125dc25b158f28a1960bd96a9fa8d1'] = '%s bodov';
+$_MODULE['<{dashtrends}warehouse>dashtrends_887ee91702c962a70b87cbef07bbcaec'] = 'bez DPH';
+$_MODULE['<{dashtrends}warehouse>dashtrends_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Predaj';
+$_MODULE['<{dashtrends}warehouse>dashtrends_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Objednávky';
+$_MODULE['<{dashtrends}warehouse>dashtrends_8c804960da61b637c548c951652b0cac'] = 'Priemerná hodnota košíka';
+$_MODULE['<{dashtrends}warehouse>dashtrends_d7e637a6e9ff116de2fa89551240a94d'] = 'Počet návštev';
+$_MODULE['<{dashtrends}warehouse>dashtrends_e4c3da18c66c0147144767efeb59198f'] = 'Miera konverzie';
+$_MODULE['<{dashtrends}warehouse>dashtrends_43d729c7b81bfa5fc10e756660d877d1'] = 'Čistý zisk';
+$_MODULE['<{dashtrends}warehouse>dashtrends_46418a037045b91e6715c4da91a2a269'] = '%s (predchádzajúce obdobie)';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_2938c7f7e560ed972f8a4f68e80ff834'] = 'Sumárny prehľad';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_f1206f9fadc5ce41694f69129aecac26'] = 'Konfigurovať';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_63a6a88c066880c5ac42394a22803ca6'] = 'Obnoviť';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_e537825dd409a90ef70d8c2eb56122a1'] = 'Súčet výnosov (bez DPH) z potvrdených objednávok za určité časové obdobie.';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Predaj';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_8bc1c5ca521b99b87908db0bcd33ec76'] = 'Celkový počet potvrdených objednávok za určité časové obdobie.';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Objednávky';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_f15f2a2bf99d3dcad2cba1a2c615b9dc'] = 'Priemerná hodnota košík predstavuje hodnotu priemernej objednávky za určité časové obdobie. Určuje sa ako pomer Predaja a počtu objednávkov.';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_791d6355d34dfaf60d68ef04d1ee5767'] = 'Hodnota košíka';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_4f631447981c5fa240006a5ae2c4b267'] = 'Celkový počet návštevníkov za určité časové obdobie. Návštevou sa považuje doba, ktorú aktívne strávi na Vašej webovej stránke.';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_d7e637a6e9ff116de2fa89551240a94d'] = 'Počet návštev';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_7a6e858f8c7c0b78fb4d43cefcb8c017'] = 'Miera konverzie internetového obchodu vyjadruje percento návštevníkov, ktorí vytvorili potvrdenú objednávku.';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_e4c3da18c66c0147144767efeb59198f'] = 'Miera konverzie';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_8dedc1b3ee3a92212fb5b5acad7f207f'] = 'Čistý zisk je miera výnosnosti po zohľadnení všetkých nákladov na prevádzku internetového obchodu. Tieto náklady môžete poskytnúť po kliknutí na tlačidlo \"Konfigurovať\".';
+$_MODULE['<{dashtrends}warehouse>dashboard_zone_two_43d729c7b81bfa5fc10e756660d877d1'] = 'Čistý zisk';

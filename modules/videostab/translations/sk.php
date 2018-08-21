@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{videostab}warehouse>videostab_323bcbc0ac3a50091feb1eaf9c1522ee'] = '[Warehouse] Video záložka';
+$_MODULE['<{videostab}warehouse>videostab_4e6273fb84dc79c79e02257725f8935b'] = 'Pridáva v detaile produktu dodatočnú záložku pre videá';
+$_MODULE['<{videostab}warehouse>videostab_f4fca7826c0f8ea831de6d2105e081c9'] = 'Naozaj si prajete odinštalovať tento modul ?';
+$_MODULE['<{videostab}warehouse>videostab_9a949ccfa9c7981df38ef6e92828f1da'] = 'Pred pridaním videa, musíte produkt najskôr uložiť.';
+$_MODULE['<{videostab}warehouse>videostab_4ade0eae8e1152c5753d6a2deca36528'] = 'Produktové videá';
+$_MODULE['<{videostab}warehouse>videostab_490aa6e856ccf208a054389e47ce0d06'] = 'ID';
+$_MODULE['<{videostab}warehouse>videostab_34e2d1989a1dbf75cd631596133ee5ee'] = 'Video';
+$_MODULE['<{videostab}warehouse>videostab_f2a6c498fb90ee345d997f888fce3b18'] = 'Odstrániť';
+$_MODULE['<{videostab}warehouse>videostab_9e3b959c3a0c7aea6627bd64d5ca0b44'] = 'Žiadne dostupné videá.';
+$_MODULE['<{videostab}warehouse>videostab_c888438d14855d7d96a2724ee9c306bd'] = 'Nastavenia boli úspešne aktualizované';
+$_MODULE['<{videostab}warehouse>videostab_4bee46d28d97b111f0f935a2af8d6668'] = 'Nastavenie';
+$_MODULE['<{videostab}warehouse>videostab_ba55584e6d8788cd4dbc99ab220c8f5e'] = 'Načítať JS video prehrávač';
+$_MODULE['<{videostab}warehouse>videostab_56e63262c5025ca4a79aba6d63aa35e1'] = 'Zapnite, ak chcete aby boli videá prehrateľné v starších prehliadačoch. Predvolene: Vypnuté, pretože JS súbory vyžadujú načítanie';
+$_MODULE['<{videostab}warehouse>videostab_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Zapnuté';
+$_MODULE['<{videostab}warehouse>videostab_b9f5c797ebbf55adccdd8539a65a0241'] = 'Vypnuté';
+$_MODULE['<{videostab}warehouse>videostab_c9cc8cce247e49bae79f15173ce97354'] = 'Uložiť';
+$_MODULE['<{videostab}warehouse>videostab_242e9577826290307cd3e45a259172cc'] = 'Úpravy budú použité pre';
+$_MODULE['<{videostab}warehouse>videostab_fb54f3c5992b96d001bb16e8e92d968d'] = 'obchod';
+$_MODULE['<{videostab}warehouse>videostab_540c8f06b80b4ec911505764eb455f4d'] = 'všetky obchody';
+$_MODULE['<{videostab}warehouse>videostab_badcfe7623b5f249271668f44792fd21'] = 'Pridať nové video';
+$_MODULE['<{videostab}warehouse>videostab_013612cd96cfe4ab6838b7b8aaadce8e'] = 'Vnorený kód videa (YouTube, Vimeo, apod.)';
+$_MODULE['<{videostab}warehouse>videostab_a1abe8ec1de81fdd62fb9952931bd692'] = 'Pridať video';
+$_MODULE['<{videostab}warehouse>videostab_28d9fb82cec1611be27a13e505838efd'] = 'Nahrať nové video';
+$_MODULE['<{videostab}warehouse>videostab_5ee0a1e1b3dfd34c9013095308fcbbb3'] = 'Súbor videa (iba vo formáte .mp4)';
+$_MODULE['<{videostab}warehouse>videostab_9ea67be453eaccf020697b4654fc021a'] = 'Uložiť a zostať';
+$_MODULE['<{videostab}warehouse>tab_554cfab3938e21d9270bd6b75931f96f'] = 'Videá';
+$_MODULE['<{videostab}warehouse>videostab_554cfab3938e21d9270bd6b75931f96f'] = 'Videá';
